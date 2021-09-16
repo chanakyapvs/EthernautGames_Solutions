@@ -1,1 +1,1 @@
-# EthernautGames_Solutions
+# EthernautPuzzle-Solidity-Solutions
